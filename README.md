@@ -32,13 +32,18 @@ A Smart Automated Plant Watering System developed using ESP32, soil moisture sen
 ```text
 Smart-Automated-Plant-Watering-Device/
 │
+├── arduino/
+│   └── grow.ino
 ├── app2.py
+├── Screenshots/
 ├── teamplates/
 │   └── index.html
 ├── README.md
 ├── LICENSE
 └── .gitignore
 ```
+
+The `arduino/` directory contains the ESP32 sketch, and `Screenshots/` contains project and dashboard images.
 
 ## Circuit Connections
 
@@ -113,7 +118,7 @@ Soil Wet - Pump OFF
 
 ## Authors
 
-- N. Jayaveer
+- Nallapati Jayaveer
 - Mohammad Najre Alam
 - Nunnagopula Shiva
 - Kataram Sai Chaithanya
