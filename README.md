@@ -47,6 +47,8 @@ The `arduino/` directory contains the ESP32 sketch, and `Screenshots/` contains 
 
 ## Circuit Connections
 
+![ESP32 Smart Automated Plant Watering Device Wiring](Screenshots/Connections.png)
+
 ### Soil Moisture Sensor → ESP32
 | Sensor Pin | ESP32 Pin |
 |------------|-----------|
